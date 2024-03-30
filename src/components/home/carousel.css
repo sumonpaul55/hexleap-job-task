@@ -1,0 +1,50 @@
+.slick-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+    font-size: 24px;
+    color: white;
+    border: 1px solid #2C9CF0;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    left: -10%;
+}
+
+.custom-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+    font-size: 24px;
+    color: white;
+    /* background-color: black; */
+    border: 1px solid #2C9CF0;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    right: -10%;
+}
+
+/* spacing between items of slider */
+.slick-slide>div {
+    margin: 0 15px;
+}
+
+@media screen and (max-width: 768px) {
+    .custom-next {
+        right: 0;
+    }
+
+    .slick-arrow {
+        left: 0;
+    }
+
+}

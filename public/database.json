@@ -28,5 +28,47 @@
             "event_number": 28,
             "sports_type": "baseball"
         }
+    ],
+    "carouselData": [
+        {
+            "id": 1,
+            "player_image": "/assets/carousel(1).png",
+            "player_name": "Las Vegas Aviators",
+            "month": "OCt",
+            "date": 48,
+            "day": "Sun",
+            "time": "4:30 PM",
+            "address": "Las Vegas Ballpark, Las Vegas, Nevada"
+        },
+        {
+            "id": 2,
+            "player_image": "/assets/carousel(2).png",
+            "player_name": "Sacramento River Cats",
+            "month": "OCt",
+            "date": 28,
+            "day": "Sun",
+            "time": "4:30 PM",
+            "address": "Sutter Health Park, Sacramento, California"
+        },
+        {
+            "id": 3,
+            "player_image": "/assets/carousel(3).png",
+            "player_name": "Las Vegas Aviators",
+            "month": "OCt",
+            "date": 15,
+            "day": "Sun",
+            "time": "4:30 PM",
+            "address": "Sutter Health Park, Sacramento, California"
+        },
+        {
+            "id": 4,
+            "player_image": "/assets/carousel(2).png",
+            "player_name": "Sacramento River Cats",
+            "month": "OCt",
+            "date": 28,
+            "day": "Sun",
+            "time": "4:30 PM",
+            "address": "Las Vegas Ballpark, Las Vegas, Nevada"
+        }
     ]
 }

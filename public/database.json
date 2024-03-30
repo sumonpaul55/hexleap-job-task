@@ -1,0 +1,32 @@
+{
+    "player": [
+        {
+            "id": 1,
+            "player_image": "/assets/player(1).png",
+            "player_name": "Sacramento River Cats",
+            "event_number": 48,
+            "sports_type": "baseball"
+        },
+        {
+            "id": 2,
+            "player_image": "/assets/player(2).png",
+            "player_name": "Las Vegas Aviators",
+            "event_number": 28,
+            "sports_type": "baseball"
+        },
+        {
+            "id": 3,
+            "player_image": "/assets/player(3).png",
+            "player_name": "new jersey devils",
+            "event_number": 15,
+            "sports_type": "baseball"
+        },
+        {
+            "id": 4,
+            "player_image": "/assets/player(4).png",
+            "player_name": "Las Vegas Aviators",
+            "event_number": 28,
+            "sports_type": "baseball"
+        }
+    ]
+}

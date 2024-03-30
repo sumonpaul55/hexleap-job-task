@@ -10,3 +10,4 @@ dark mode: I have used localstorage for change the theme dark and light
 
 carousel: I have used react-slick carousel
 
+responsive: I have ensured that this project is fully mobile responsive
